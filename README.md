@@ -8,14 +8,14 @@ I am a versatilist and easily adapt to different hats Software Developer 🤖, d
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I'm MS CS Student @UMass, Amherst. 
+- 🔭 &nbsp; I'm MS CS Student @UMass, Amherst
 - 🤝 &nbsp; I’m always looking to collaborate with other developers on unique software development projects
 - 🌱 &nbsp; I’m currently focusing on backend development 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/shiksha11?tab=repositories)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/shiksharawat/)
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1PIvkQbmjPY1vNm4R3o8Bw7WEZOr67DKJ/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fiction novels. 
+- 📚 &nbsp; When I am free, I read fiction novels
 
 <br>
 
@@ -29,10 +29,10 @@ I am a versatilist and easily adapt to different hats Software Developer 🤖, d
 <a href="https://html.com/" target="_blank"><img align="left" alt="HTML" height ="42px" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png"></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS" height ="42px" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png"></a>
 <a href="https://grpc.io/" target="_blank"><img align="left" alt="gRPC" height ="42px" src="https://user-images.githubusercontent.com/25181517/121258446-3214fb80-c8af-11eb-8db8-cb884a356803.png"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://user-images.githubusercontent.com/25181517/182618508-1b12183b-5398-48d2-92e7-ff0969a22624.png"></a>
-<a href="https://www.postman.com/" target="_blank"><img align="left" alt="PostMan" height ="42px" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"></a>
-<a href="https://restfulapi.net/" target="_blank"><img align="left" alt="Java" height ="42px" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png"></a>
-<a href="https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/" target="_blank"><img align="left" alt="HTTP" height ="42px" src="https://user-images.githubusercontent.com/25181517/182618272-390ab138-7b29-44a0-85a2-62633957d815.png"></a>
+<a href="https://www.postman.com/" target="_blank"><img align="left" alt="PostMan" height ="42px" src="https://user-images.githubusercontent.com/25181517/182618508-1b12183b-5398-48d2-92e7-ff0969a22624.png"></a>
+<a href="https://restfulapi.net/" target="_blank"><img align="left" alt="RestfulApi.net" height ="42px" src="https://user-images.githubusercontent.com/25181517/117208135-11134380-adf5-11eb-8878-040fd0f015b2.png"></a>
+<a href="https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/" target="_blank"><img align="left" alt="HTTP" height ="42px" src="https://user-images.githubusercontent.com/25181517/121258433-2d504780-c8af-11eb-8324-92f1305ded79.png"></a>
+
 
 <br>
 
